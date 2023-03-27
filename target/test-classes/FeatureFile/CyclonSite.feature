@@ -18,3 +18,12 @@ Feature: automating the cylos for practise
     Given launch the browser
     When select the buy movie voucher
     Then Choose the Voucher Section and click 
+    
+    
+     #Scenario: Adding new advertisement
+    #Given launch the browser
+    #And username and password and click submit
+    #And enter to login page with vaild credentials
+    #When navigate upload image and add advertisement 
+    #Then place the advertisement to the website 
+    
